@@ -1,2 +1,2 @@
 ## landing page
-Design and Implement a landing page using flexbox 
+Designing a landing page using flexbox 
